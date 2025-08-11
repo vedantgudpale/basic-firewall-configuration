@@ -5,7 +5,7 @@ Screenshots illustrating fundamental firewall management abilities on Windows ar
 ##  Goal
 To block a particular port (Port 23 for Telnet), set up and test a simple firewall rule. Then, use the Telnet command to confirm that the port is blocked.
 
-## 🛠 Actions Taken: **Examined Current Regulations**  
+##  Actions Taken: **Examined Current Regulations**  
    *Windows Defender Firewall with Advanced Security* (`wf.msc`) was opened.
    Current **Inbound** and **Outbound** rules are listed.
 
