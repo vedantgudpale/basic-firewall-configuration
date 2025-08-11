@@ -1,7 +1,5 @@
 # Configuring the Windows Firewall
 
-Screenshots illustrating fundamental firewall management abilities on Windows are included in this repository as part of the Cyber Security Internship **Task 4-3**.
-
 ##  Goal
 To block a particular port (Port 23 for Telnet), set up and test a simple firewall rule. Then, use the Telnet command to confirm that the port is blocked.
 
